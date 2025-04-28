@@ -34,13 +34,13 @@ This project is a collection of tools designed to scrape NBA player game data, p
   - `nba_api`
   - `numpy`
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 1. Install required libraries:
    ```bash
    pip install -r requirements.txt
 
-## 🛎️ Notes
+## Notes
 
 - **Respect web scraping guidelines**: Be mindful of how often you scrape from Basketball-Reference to avoid IP bans.
 - **Model results** should be validated carefully before using for any serious financial decision-making.
