@@ -2,7 +2,7 @@
 
 This project is a collection of tools designed to scrape NBA player game data, perform expected value (EV) analysis, and apply machine learning models (like Logistic Regression) to predict betting outcomes based on player performance.
 
-## 📋 Project Purpose
+## Project Purpose
 
 - Scrape NBA player game logs from Basketball-Reference and NBA APIs.
 - Analyze player performance under specific conditions (home/away games, back-to-back games, opponent strength).
