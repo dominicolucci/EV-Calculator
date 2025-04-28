@@ -39,3 +39,10 @@ This project is a collection of tools designed to scrape NBA player game data, p
 1. Install required libraries:
    ```bash
    pip install -r requirements.txt
+
+## 🛎️ Notes
+
+- **Respect web scraping guidelines**: Be mindful of how often you scrape from Basketball-Reference to avoid IP bans.
+- **Model results** should be validated carefully before using for any serious financial decision-making.
+- **Work in progress**: This project is designed to evolve — adding more advanced models, live betting integration, or UI components would be natural next steps.
+
